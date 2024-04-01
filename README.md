@@ -1,3 +1,3 @@
 # MDSim
 
-If you have trouble dealing with the programme, contact me in person and I'll teach you :P
+If you have trouble dealing with the program, contact me in person and I'll guide you :P
